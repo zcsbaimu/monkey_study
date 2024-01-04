@@ -48,7 +48,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.a_13">
+  <component name="RunManager" selected="Python.13">
     <configuration name="12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="monkey_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -139,8 +139,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.a_13" />
         <item itemvalue="Python.13" />
+        <item itemvalue="Python.a_13" />
         <item itemvalue="Python.12" />
         <item itemvalue="Python.17" />
       </list>
